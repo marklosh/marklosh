@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi there, I am Mark losh 👋</h1>
 - 💬 Ask me about <strong>Python, Java </strong> <br>
 - 🌱 I’m currently learning <strong>Data science, Machine Learning </strong> <br>
-- 📫 How to reach me: <a href="www.linkedin.com/in/loshilu-mark-4b9638182" target="_blank">mark loshilu</a> <br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/loshilu-mark-4b9638182" target="_blank">mark loshilu</a> <br>
 - ⚡ Fun fact: <strong>Hello World!!</strong>
 
 
