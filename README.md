@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about <strong>Python, Java </strong> <br>
 - 🌱 I’m currently learning <strong>Data science, Machine Learning </strong> <br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/loshilu-mark-4b9638182" target="_blank">mark loshilu</a> <br>
-- 🔥 Passionate about <strong>Linux </strong>loves to write <strong>code </strong>scroll down!!
+- 🔥 Passionate about <strong>Linux. </strong>Loves to write <strong>code. </strong>Scroll down!!<br>
 - ⚡ Fun fact: <strong>Hello World!!</strong>
 
 
