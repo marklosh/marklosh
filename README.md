@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **marklosh/marklosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about <strong>Python, Java </strong> <br>
 - 🌱 I’m currently learning <strong>Data science, Machine Learning </strong> <br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/loshilu-mark-4b9638182" target="_blank">mark loshilu</a> <br>
+- 🔥 Passionate about <strong>Linux </strong>loves to write <strong>code </strong>scroll down!!
 - ⚡ Fun fact: <strong>Hello World!!</strong>
 
 
